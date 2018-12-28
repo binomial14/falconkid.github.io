@@ -6,7 +6,7 @@ title: "Build your own blog"
 ## **使用github與jekyll建立自己的blog**
 
 
-# **0.** Requirements
+# **0.** Requirements check
 
     ruby -v  
     gem -v  
@@ -15,5 +15,18 @@ title: "Build your own blog"
     make -v  
 
 # **1.** Jekyll
+
+    gem install jekyll
+    jekyll new [dir_name]
+    cd [dir_name]
+    
+# **2.** Github
+    
+    git init
+    git add .
+    git commit -m "git init"
+    git remote add origin [github url]
+    git push
+    
        
        

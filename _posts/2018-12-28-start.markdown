@@ -3,4 +3,12 @@ layout: post
 title: "Build your own blog"
 ---
 
-使用github與jekyll建立自己的blog
+__**使用github與jekyll建立自己的blog**__
+
+**0.** Requirements
+       'ruby -v'
+       'gem -v'
+       '''gcc -v
+       g++ -v
+       make -v'''
+ 

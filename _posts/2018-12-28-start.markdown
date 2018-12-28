@@ -32,5 +32,5 @@ _(Base on some basic Github knowledge)_
 
   You can post an article by adding a new file in the directory **\_posts**
   The file format should be .md, and with the title _yyyy-mm-dd-title.markdown_
-  [here]: https://github.com/emn178/markdown
-  You can check the instructions to write a markdown file [here][].
+  You can check the instructions to write a markdown file [here](https://github.com/emn178/markdown "title").
+  

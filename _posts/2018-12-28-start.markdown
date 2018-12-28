@@ -3,7 +3,7 @@ layout: post
 title: "Build your own blog"
 ---
 
-## **使用github與jekyll建立自己的blog**
+## **Building your own blog with Jekyll and Github*(Base on some basic Github knowledge)***
 
 
 # **0.** Requirements check
@@ -27,6 +27,10 @@ title: "Build your own blog"
     git commit -m "git init"
     git remote add origin [github url]
     git push
-    
-       
-       
+           
+# **3.** Make a post
+
+  You can post an article by adding a new file in the directory **\_posts**
+  The file format should be .md, and with the title _yyyy-mm-dd-title.markdown_
+  You can check the instructions to write a markdown file [here][id].
+  [id]: https://github.com/emn178/markdown

@@ -16,9 +16,9 @@
 title: cœur de Lion
 email: leowinston2017@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-A sophomore in NTUEE.
-Maker, coder, hooper.
-Trying to be a writer, hoping to be a traveler.
+  A sophomore in NTUEE.
+  Maker, coder, hooper.
+  Trying to be a writer, hoping to be a traveler.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lionel230923

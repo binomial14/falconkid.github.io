@@ -8,7 +8,7 @@ title: "Build your own blog"
 
 # **0.** Requirements
 
-  {% highlight %}
+  {% highlight ruby %}
   ruby -v
   gem -v  
   gcc -v

@@ -8,14 +8,14 @@ title: "Build your own blog"
 
 # **0.** Requirements
 
-       `ruby -v`
-       `gem -v`
-       ```
-       gcc -v
-       g++ -v
-       make -v
-       ```
+  { %highlight }
+  ruby -v
+  gem -v  
+  gcc -v
+  g++ -v
+  make -v
+  { %endhighlight }
 
 # **1.** Jekyll
        
- 
+       

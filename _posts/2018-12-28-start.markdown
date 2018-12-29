@@ -17,15 +17,15 @@ _(Base on some basic Github knowledge)_
 # **1.** Jekyll
 
     gem install jekyll
-    jekyll new [dir_name]
-    cd [dir_name]
+    jekyll new <dir_name>
+    cd <dir_name>
     
 # **2.** Github
     
     git init
     git add .
     git commit -m "git init"
-    git remote add origin [github url]
+    git remote add origin <github url>
     git push
            
 # **3.** Make a post
